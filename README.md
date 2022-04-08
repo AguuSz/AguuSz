@@ -21,7 +21,7 @@ Si no estoy codeando, seguramente este o jugando 🎮 o en el gym. Si queres con
     <a href="https://open.spotify.com/user/aguuusz">
 		<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
-    <a href="[#](https://www.instagram.com/agus.sepulveda02/)">
+    <a href="https://www.instagram.com/agus.sepulveda02/">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	</a>
 
