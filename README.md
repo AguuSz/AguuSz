@@ -89,26 +89,27 @@ Si no estoy codeando, seguramente este o jugando 🎮 o en el gym. Si queres con
 ## 📕 Repositorios pinneados
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
+
+<a href="https://github.com/AguuSz/iua-game-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=iua-game-project&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/AguuSz/facialRecog-OpenCV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=facialRecog-OpenCV&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
+<a href="https://github.com/AguuSz/spotify-clone-IUA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=spotify-clone-IUA&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
+<a href="https://github.com/AguuSz/contacts-backend-IUA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=contacts-backend-IUA&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
+<a href="https://github.com/AguuSz/apuntes-iua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=apuntes-iua&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
+<a href="https://github.com/AguuSz/Proyecto-2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=Proyecto-2018&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AguuSz&repo=iua-game-project&hide_border=true&theme=radical" />
 </a>
