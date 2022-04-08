@@ -1,6 +1,6 @@
-# Hi! <img src="/src/banner.gif" width="30px">
+# Hi! <img src="/src/wave.gif" width="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+<img src="/src/banner.gif"></a>
 
 - 📖 Estudiante de Ingenieria en Informatica en [Instituto Universitario Aeronautico](https://www.iua.edu.ar/).
 
