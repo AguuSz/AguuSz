@@ -1,6 +1,6 @@
 # Hi! <img src="/src/wave.gif" width="30px">
 
-<img src="/src/banner.gif"></a>
+<img align="center" src="/src/banner.gif"></a>
 
 - 📖 Estudiante de Ingenieria en Informatica en [Instituto Universitario Aeronautico](https://www.iua.edu.ar/).
 
