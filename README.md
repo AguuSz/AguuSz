@@ -76,14 +76,6 @@ Si no estoy codeando, seguramente este o jugando 🎮 o en el gym. Si queres con
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AguuSz&hide_border=true&theme=radical" />
 </p>
 
-## 🎶 Recientemente escuche
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aguuusz&count=5)
-
-## 🔝 Lenguajes mas utilizados
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguuSz&layout=compact&hide_border=true&theme=radical" />
-
 ---
 
 ## 📕 Repositorios pinneados
