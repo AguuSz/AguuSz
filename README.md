@@ -11,15 +11,12 @@
 Si no estoy codeando, seguramente este o jugando 🎮 o en el gym. Si queres contactarte, sentite libre de hacerlo por alguno de estos medios:
 
 <p align="center">
-	<a href="https://twitter.com/Agus_sepulveda2">
+	<a href="https://twitter.com/AguuSz__">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 	</a>
         <a href="https://steamcommunity.com/id/AguuSz/">
 		<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-	</a>
-    <a href="https://open.spotify.com/user/aguuusz">
-		<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
     <a href="https://www.instagram.com/agus.sepulveda02/">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
